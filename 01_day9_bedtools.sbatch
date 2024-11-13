@@ -9,7 +9,7 @@
 #SBATCH -p short
 #SBATCH --output=/scratch/Users/esro2814/workshop-day9/eofiles/%x_%j.out
 #SBATCH --error=/scratch/Users/esro2814/workshop-day9/eofiles/%x_%j.err
-
+#new line
 
 ################## USER INPUT ######################################
 
